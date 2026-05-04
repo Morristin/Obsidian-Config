@@ -1,1 +1,9 @@
-{}
+{
+  "showViewHeader": false,
+  "showRibbon": false,
+  "interfaceFontFamily": "New York,Noto Serif,Noto Serif SC",
+  "textFontFamily": "Noto Serif,Times New Roman,Songti SC,Noto Serif SC,LXGW WenKai",
+  "monospaceFontFamily": "JetBrains Mono,LXGW WenKai Mono",
+  "nativeMenus": false,
+  "translucency": false
+}
