@@ -1,4 +1,13 @@
 /.idea/
 .DS_Store
 
+# Obsidian First-Party Resource
+/plugins/
+/themes/
+# Obsidian Application Setting
+/community-plugins.json
 /workspace.json
+
+# Obsidian Third-Party Resource
+/fonts/
+/icons/
