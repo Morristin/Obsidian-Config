@@ -2,5 +2,10 @@
   "strictLineBreaks": true,
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Assets",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
