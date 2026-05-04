@@ -1,1 +1,6 @@
-{}
+{
+  "strictLineBreaks": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "autoConvertHtml": false
+}
