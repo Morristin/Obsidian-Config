@@ -5,5 +5,8 @@
   "textFontFamily": "Noto Serif,Times New Roman,Songti SC,Noto Serif SC,LXGW WenKai",
   "monospaceFontFamily": "JetBrains Mono,LXGW WenKai Mono",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Invert PDF in Dark Mode"
+  ]
 }
